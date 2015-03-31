@@ -11,8 +11,8 @@
     ],
     "support":  {
         "email": "hello@andrewhowden.com",
-        "wiki": "http://git.howden.io/phpunit/composer",
-        "issues": "http://git.howden.io/phpunit/composer/issues"
+        "wiki": "https://github.com/andrewhowdencom/phpunit-composer",
+        "issues": "https://github.com/andrewhowdencom/phpunit-composer/issues"
     },
     "require": {
         "phpunit/phpunit":    "4.5.*"
