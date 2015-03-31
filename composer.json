@@ -1,6 +1,6 @@
 {
     "name": "howdenio/phpunit-composer-validator",
-    "description": "Checks whether you have the appropriate configuration in the composer.json file",
+    "description": "A little test suite that keeps my composer files in check.",
     "time": "2015-03-31",
     "license": "MIT",
     "authors": [
