@@ -1,5 +1,5 @@
 {
-    "name": "howdenio/phpunit-composer-validator",
+    "name": "howdenio/phpunit-composer",
     "description": "A little test suite that keeps my composer files in check.",
     "time": "2015-03-31",
     "license": "MIT",
@@ -12,7 +12,8 @@
     "support":  {
         "email": "hello@andrewhowden.com",
         "wiki": "https://github.com/andrewhowdencom/phpunit-composer",
-        "issues": "https://github.com/andrewhowdencom/phpunit-composer/issues"
+        "issues": "https://github.com/andrewhowdencom/phpunit-composer/issues",
+        "source": "https://github.com/andrewhowdencom/phpunit-composer"
     },
     "require": {
         "phpunit/phpunit":    "4.5.*"
