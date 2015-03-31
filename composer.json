@@ -1,0 +1,21 @@
+{
+    "name": "howdenio/phpunit-composer-validator",
+    "description": "Checks whether you have the appropriate configuration in the composer.json file",
+    "time": "2015-03-31",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Howden",
+            "email": "hello@andrewhowden.com"
+        }
+    ],
+    "support":  {
+        "email": "hello@andrewhowden.com",
+        "wiki": "http://git.howden.io/phpunit/composer",
+        "issues": "http://git.howden.io/phpunit/composer/issues"
+    },
+    "require": {
+        "phpunit/phpunit":    "4.5.*"
+    },
+    "require-dev": {}
+}

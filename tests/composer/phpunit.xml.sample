@@ -1,0 +1,12 @@
+<phpunit>
+    <!-- Supplied Variables -->
+    <php>
+        <files name="composer.json" value="composer.json" />
+    </php>
+    <!-- Test Suites -->
+    <testsuites>
+        <testsuite name="composer">
+            <directory>tests/composer/*Test.php</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
